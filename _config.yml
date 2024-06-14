@@ -1,6 +1,6 @@
 # Site settings
 # Build settings
-baseurl: '/expressjs.com'
+baseurl: '/my-expressjs.com'
 url: 'https://chrisdel101.github.io'
 
 markdown: kramdown
